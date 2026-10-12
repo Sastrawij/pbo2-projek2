@@ -53,5 +53,3 @@ Buka http://127.0.0.1:8000 dan login:
 - `resources/views` - tampilan Blade (AdminLTE)
 - `routes/web.php` - routing
 
-## Catatan
-Folder `public/dist` (AdminLTE) tidak ikut dilampirkan jika berukuran besar; unduh dari repository AdminLTE dan letakkan di `public/dist`.
